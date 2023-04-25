@@ -1,0 +1,12 @@
+@font-face {
+    font-family:Josefin_Sans;
+    src: url(css/fonts/JosefinSans-VariableFont_wght.ttf)
+}
+@font-face {
+    font-family: Gamer;
+    src: url(css/fonts/PressStart2P-Regular.ttf);
+}
+@font-face {
+    font-family: Subtitulo;
+    src: url(css/fonts/Caveat-VariableFont_wght.ttf);
+}
