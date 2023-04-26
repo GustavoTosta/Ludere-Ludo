@@ -10,3 +10,13 @@
     font-family: Subtitulo;
     src: url(css/fonts/Caveat-VariableFont_wght.ttf);
 }
+.fonte-gamer
+{
+    font-family: Gamer;
+    color: white;
+}
+.fonte-sub
+{
+    font-family: Subtitulo;
+    color: white;
+}
