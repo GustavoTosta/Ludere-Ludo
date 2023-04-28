@@ -20,10 +20,9 @@
     font-family: Subtitulo;
     color: white;
 }
-.jumbotron {
-    background-image: url(img/undertale\ capa.avif);
-    background-attachment: fixed;
-    background-position: center;
+.Background-Undertale
+{
+    background-image: url(img/undertaleCapa.avif);
     background-repeat: no-repeat;
     background-size: cover;
-   }
+}
