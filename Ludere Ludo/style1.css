@@ -20,3 +20,9 @@
     font-family: Subtitulo;
     color: white;
 }
+.Background-Undertale
+{
+    background-image: url(img/undertaleCapa.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
